@@ -4,3 +4,5 @@ before merging with the main branch it will check the code and provide recommend
 
 
 Error in gitleak 
+what is gitleak 
+detect      detect secrets in code
