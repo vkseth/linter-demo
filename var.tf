@@ -1,5 +1,5 @@
 variable "access_key" {
-  default = AKIARM6WFGSP3FV2VMXI
+  default = "AKIARM6WFGSP3FV2VMXI"
   type    = string
 
 }
